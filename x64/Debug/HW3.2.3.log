@@ -1,0 +1,63 @@
+﻿  HW3.2.3.cpp
+C:\Users\dmaz6\Desktop\HW3.2.3\HW3.2.3.cpp(1,4): error C2014: команда препроцессора не должна начинаться с пробела
+C:\Users\dmaz6\Desktop\HW3.2.3\HW3.2.3.cpp(3,8): error C2143: синтаксическая ошибка: отсутствие ";" перед "<class-head>"
+C:\Users\dmaz6\Desktop\HW3.2.3\HW3.2.3.cpp(4,1): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Users\dmaz6\Desktop\HW3.2.3\HW3.2.3.cpp(5,10): error C2039: "string": не является членом "std".
+C:\Users\dmaz6\Desktop\HW3.2.3\predefined C++ types (compiler internal)(343,11): message : см. объявление "std"
+C:\Users\dmaz6\Desktop\HW3.2.3\HW3.2.3.cpp(5,17): error C3646: nameOfTown: неизвестный спецификатор переопределения
+C:\Users\dmaz6\Desktop\HW3.2.3\HW3.2.3.cpp(5,27): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Users\dmaz6\Desktop\HW3.2.3\HW3.2.3.cpp(6,10): error C2039: "string": не является членом "std".
+C:\Users\dmaz6\Desktop\HW3.2.3\predefined C++ types (compiler internal)(343,11): message : см. объявление "std"
+C:\Users\dmaz6\Desktop\HW3.2.3\HW3.2.3.cpp(6,17): error C3646: nameOfStreet: неизвестный спецификатор переопределения
+C:\Users\dmaz6\Desktop\HW3.2.3\HW3.2.3.cpp(6,29): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Users\dmaz6\Desktop\HW3.2.3\HW3.2.3.cpp(14,10): error C2039: "cout": не является членом "std".
+C:\Users\dmaz6\Desktop\HW3.2.3\predefined C++ types (compiler internal)(343,11): message : см. объявление "std"
+C:\Users\dmaz6\Desktop\HW3.2.3\HW3.2.3.cpp(14,15): error C2065: cout: необъявленный идентификатор
+C:\Users\dmaz6\Desktop\HW3.2.3\HW3.2.3.cpp(14,48): error C2039: "nameOfTown": не является членом "adressOfHome".
+C:\Users\dmaz6\Desktop\HW3.2.3\HW3.2.3.cpp(3,8): message : см. объявление "adressOfHome"
+C:\Users\dmaz6\Desktop\HW3.2.3\HW3.2.3.cpp(14,67): error C2039: "endl": не является членом "std".
+C:\Users\dmaz6\Desktop\HW3.2.3\predefined C++ types (compiler internal)(343,11): message : см. объявление "std"
+C:\Users\dmaz6\Desktop\HW3.2.3\HW3.2.3.cpp(14,71): error C2065: endl: необъявленный идентификатор
+C:\Users\dmaz6\Desktop\HW3.2.3\HW3.2.3.cpp(15,10): error C2039: "cout": не является членом "std".
+C:\Users\dmaz6\Desktop\HW3.2.3\predefined C++ types (compiler internal)(343,11): message : см. объявление "std"
+C:\Users\dmaz6\Desktop\HW3.2.3\HW3.2.3.cpp(15,15): error C2065: cout: необъявленный идентификатор
+C:\Users\dmaz6\Desktop\HW3.2.3\HW3.2.3.cpp(15,48): error C2039: "nameOfStreet": не является членом "adressOfHome".
+C:\Users\dmaz6\Desktop\HW3.2.3\HW3.2.3.cpp(3,8): message : см. объявление "adressOfHome"
+C:\Users\dmaz6\Desktop\HW3.2.3\HW3.2.3.cpp(15,69): error C2039: "endl": не является членом "std".
+C:\Users\dmaz6\Desktop\HW3.2.3\predefined C++ types (compiler internal)(343,11): message : см. объявление "std"
+C:\Users\dmaz6\Desktop\HW3.2.3\HW3.2.3.cpp(15,73): error C2065: endl: необъявленный идентификатор
+C:\Users\dmaz6\Desktop\HW3.2.3\HW3.2.3.cpp(16,10): error C2039: "cout": не является членом "std".
+C:\Users\dmaz6\Desktop\HW3.2.3\predefined C++ types (compiler internal)(343,11): message : см. объявление "std"
+C:\Users\dmaz6\Desktop\HW3.2.3\HW3.2.3.cpp(16,15): error C2065: cout: необъявленный идентификатор
+C:\Users\dmaz6\Desktop\HW3.2.3\HW3.2.3.cpp(16,76): error C2039: "endl": не является членом "std".
+C:\Users\dmaz6\Desktop\HW3.2.3\predefined C++ types (compiler internal)(343,11): message : см. объявление "std"
+C:\Users\dmaz6\Desktop\HW3.2.3\HW3.2.3.cpp(16,80): error C2065: endl: необъявленный идентификатор
+C:\Users\dmaz6\Desktop\HW3.2.3\HW3.2.3.cpp(17,10): error C2039: "cout": не является членом "std".
+C:\Users\dmaz6\Desktop\HW3.2.3\predefined C++ types (compiler internal)(343,11): message : см. объявление "std"
+C:\Users\dmaz6\Desktop\HW3.2.3\HW3.2.3.cpp(17,15): error C2065: cout: необъявленный идентификатор
+C:\Users\dmaz6\Desktop\HW3.2.3\HW3.2.3.cpp(17,88): error C2039: "endl": не является членом "std".
+C:\Users\dmaz6\Desktop\HW3.2.3\predefined C++ types (compiler internal)(343,11): message : см. объявление "std"
+C:\Users\dmaz6\Desktop\HW3.2.3\HW3.2.3.cpp(17,92): error C2065: endl: необъявленный идентификатор
+C:\Users\dmaz6\Desktop\HW3.2.3\HW3.2.3.cpp(18,10): error C2039: "cout": не является членом "std".
+C:\Users\dmaz6\Desktop\HW3.2.3\predefined C++ types (compiler internal)(343,11): message : см. объявление "std"
+C:\Users\dmaz6\Desktop\HW3.2.3\HW3.2.3.cpp(18,15): error C2065: cout: необъявленный идентификатор
+C:\Users\dmaz6\Desktop\HW3.2.3\HW3.2.3.cpp(18,64): error C2039: "endl": не является членом "std".
+C:\Users\dmaz6\Desktop\HW3.2.3\predefined C++ types (compiler internal)(343,11): message : см. объявление "std"
+C:\Users\dmaz6\Desktop\HW3.2.3\HW3.2.3.cpp(18,68): error C2065: endl: необъявленный идентификатор
+C:\Users\dmaz6\Desktop\HW3.2.3\HW3.2.3.cpp(20,10): error C2039: "cout": не является членом "std".
+C:\Users\dmaz6\Desktop\HW3.2.3\predefined C++ types (compiler internal)(343,11): message : см. объявление "std"
+C:\Users\dmaz6\Desktop\HW3.2.3\HW3.2.3.cpp(20,15): error C2065: cout: необъявленный идентификатор
+C:\Users\dmaz6\Desktop\HW3.2.3\HW3.2.3.cpp(20,23): error C2039: "endl": не является членом "std".
+C:\Users\dmaz6\Desktop\HW3.2.3\predefined C++ types (compiler internal)(343,11): message : см. объявление "std"
+C:\Users\dmaz6\Desktop\HW3.2.3\HW3.2.3.cpp(20,27): error C2065: endl: необъявленный идентификатор
+C:\Users\dmaz6\Desktop\HW3.2.3\HW3.2.3.cpp(27,15): error C2065: LC_ALL: необъявленный идентификатор
+C:\Users\dmaz6\Desktop\HW3.2.3\HW3.2.3.cpp(27,5): error C3861: setlocale: идентификатор не найден
+C:\Users\dmaz6\Desktop\HW3.2.3\HW3.2.3.cpp(28,5): error C3861: system: идентификатор не найден
+C:\Users\dmaz6\Desktop\HW3.2.3\HW3.2.3.cpp(31,16): error C2039: "nameOfTown": не является членом "adressOfHome".
+C:\Users\dmaz6\Desktop\HW3.2.3\HW3.2.3.cpp(3,8): message : см. объявление "adressOfHome"
+C:\Users\dmaz6\Desktop\HW3.2.3\HW3.2.3.cpp(32,16): error C2039: "nameOfStreet": не является членом "adressOfHome".
+C:\Users\dmaz6\Desktop\HW3.2.3\HW3.2.3.cpp(3,8): message : см. объявление "adressOfHome"
+C:\Users\dmaz6\Desktop\HW3.2.3\HW3.2.3.cpp(38,16): error C2039: "nameOfTown": не является членом "adressOfHome".
+C:\Users\dmaz6\Desktop\HW3.2.3\HW3.2.3.cpp(3,8): message : см. объявление "adressOfHome"
+C:\Users\dmaz6\Desktop\HW3.2.3\HW3.2.3.cpp(39,16): error C2039: "nameOfStreet": не является членом "adressOfHome".
+C:\Users\dmaz6\Desktop\HW3.2.3\HW3.2.3.cpp(3,8): message : см. объявление "adressOfHome"
